@@ -34,8 +34,6 @@ pd.set_option('display.max_rows', 500)
 pd.set_option('display.max_columns', 500)
 pd.set_option('display.width', 1000)
 
-print("hi")
-
 exchange = ccxt.binanceus()
 
 # command+b to go to the function info
